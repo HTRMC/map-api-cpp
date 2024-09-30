@@ -1,0 +1,9 @@
+[submodule "thirdparty/curl"]
+	path = thirdparty/curl
+	url = https://github.com/curl/curl.git
+[submodule "thirdparty/SFML"]
+	path = thirdparty/SFML
+	url = https://github.com/SFML/SFML.git
+[submodule "thirdparty/json"]
+	path = thirdparty/json
+	url = https://github.com/nlohmann/json.git
